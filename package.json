@@ -1,0 +1,13 @@
+{
+  "name": "omri-vip-invitation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Private VIP invitation page with Telegram RSVP notifications",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
